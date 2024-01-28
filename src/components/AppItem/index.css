@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.app-iem {
+  background-color: white;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.app-image {
+  width: 70px;
+  height: 70px;
+}
+.app-name {
+  color: #1e293b;
+  font-family: Bree Serif;
+}
